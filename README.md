@@ -3,7 +3,7 @@ a reference to gmp from https://gmplib.org/
 
 to solve the issue temporarily
 
-CMake Error at dep_GMP-stamp/download-dep_GMP.cmake:170 (message):
+```CMake Error at dep_GMP-stamp/download-dep_GMP.cmake:170 (message):
   Each download failed!
 
     error: downloading 'https://gmplib.org/download/gmp/gmp-6.2.1.tar.bz2' failed
@@ -20,3 +20,4 @@ CMake Error at dep_GMP-stamp/download-dep_GMP.cmake:170 (message):
 
   Closing connection 0
           --- LOG END ---
+```
